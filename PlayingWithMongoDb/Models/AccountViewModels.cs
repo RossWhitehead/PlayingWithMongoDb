@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace PlayingWithMongoDb.Models
+namespace PlayingWithMongoDb.Web.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace PlayingWithMongoDb
+namespace PlayingWithMongoDb.Web
 {
     public class FilterConfig
     {

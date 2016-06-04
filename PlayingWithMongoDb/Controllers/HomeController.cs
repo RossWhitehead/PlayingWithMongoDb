@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace PlayingWithMongoDb.Controllers
+namespace PlayingWithMongoDb.Web.Controllers
 {
     public class HomeController : Controller
     {

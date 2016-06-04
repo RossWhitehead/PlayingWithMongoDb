@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using PlayingWithMongoDb.Models;
+using PlayingWithMongoDb.Web.Models;
 
-namespace PlayingWithMongoDb
+namespace PlayingWithMongoDb.Web
 {
     public class EmailService : IIdentityMessageService
     {

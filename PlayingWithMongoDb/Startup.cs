@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(PlayingWithMongoDb.Startup))]
-namespace PlayingWithMongoDb
+[assembly: OwinStartupAttribute(typeof(PlayingWithMongoDb.Web.Startup))]
+namespace PlayingWithMongoDb.Web
 {
     public partial class Startup
     {

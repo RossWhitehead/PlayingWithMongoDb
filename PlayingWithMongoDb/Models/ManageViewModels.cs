@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace PlayingWithMongoDb.Models
+namespace PlayingWithMongoDb.Web.Models
 {
     public class IndexViewModel
     {

@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using PlayingWithMongoDb.Models;
+using PlayingWithMongoDb.Web.Models;
 
-namespace PlayingWithMongoDb
+namespace PlayingWithMongoDb.Web
 {
     public partial class Startup
     {
